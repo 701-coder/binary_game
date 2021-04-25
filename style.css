@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 72px;
+}
+h2{
+    font-size: 36px;
+}
+h3{
+    font-size: 24px;
+}
+.game, .timer{
+    font-size: 72px;
+}
+.score{
+    font-size: 36px;
+}
